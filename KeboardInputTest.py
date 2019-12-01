@@ -20,3 +20,6 @@ if age > str(12) and height > str(160):
     print("OK")
 else:
     print("Forbidden")
+
+    
+    
