@@ -79,5 +79,3 @@
 #     print("not equals")
 # else:
 #     print("none")
-
-
